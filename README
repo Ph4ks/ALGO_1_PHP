@@ -1,0 +1,6 @@
+echo "# Ph4ks" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ph4ks/Ph4ks.git
+git push -u origin master
